@@ -1,0 +1,2 @@
+# Hackintosh-13400F-B660M-MORTAR-RX580
+适用于 13400F + B660M迫击炮 DDR4 + RX590 黑苹果引导文件
