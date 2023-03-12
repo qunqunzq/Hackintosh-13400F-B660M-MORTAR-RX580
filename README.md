@@ -7,6 +7,6 @@
 ---  |    --- 
 cpu  |  intel i5-13400F
 主板  |  MSI MAG B660M MORTAR DDR4 
-显卡  |  蓝宝石 RX590 8G GME极光
+显卡  |  蓝宝石 RX5600XT 6G 
 内存  |  镁光英睿达 8G DDR4 * 4
 SSD  |  影驰星耀X4 512G PCI4.0
